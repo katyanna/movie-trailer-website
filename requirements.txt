@@ -1,0 +1,4 @@
+flask
+tmdbsimple
+gevent
+gunicorn
