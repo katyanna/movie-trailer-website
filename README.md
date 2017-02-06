@@ -9,16 +9,16 @@ Running it
 
 To locally run the app, first you'll need:
 
-1. A [TMDB API key](https://www.themoviedb.org/documentation/api).
+- A [TMDB API key](https://www.themoviedb.org/documentation/api).
 
-2. To create a virtualenv
+-  To create a virtualenv
 ```
 $ sudo pip install virtualenv
 $ virtualenv environment_name
 $ source ./environment_name/bin/activate
 ```
 
-3. To install [Flask](http://flask.pocoo.org/)
+-  To install [Flask](http://flask.pocoo.org/)
 ```
 $ pip install flask
 ```
