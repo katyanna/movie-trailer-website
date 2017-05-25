@@ -13,7 +13,7 @@ To locally run the app, first you'll need:
 
 -  To create a virtualenv
 ```
-$ sudo pip install virtualenv
+$ pip install virtualenv
 $ virtualenv environment_name
 $ source ./environment_name/bin/activate
 ```
